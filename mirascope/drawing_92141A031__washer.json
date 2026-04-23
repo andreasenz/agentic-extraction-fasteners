@@ -1,0 +1,37 @@
+{
+  "family": "washer",
+  "meta": {
+    "drawing_number": "92141A031",
+    "title": "18-8 Stainless Steel Washer",
+    "system_of_measurement": "in"
+  },
+  "material": {
+    "base_material": "Stainless Steel",
+    "grade_or_standard": "18-8"
+  },
+  "annotations": [
+    {
+      "label": "For 3/8\" Screw Size"
+    }
+  ],
+  "confidence_notes": "Reference drawing from McMaster-Carr, no explicit tolerance values or compliance shown",
+  "raw_attributes": {
+    "manufacturer": "McMaster-Carr",
+    "part_number": "92141A031",
+    "description": "18-8 Stainless Steel Washer"
+  },
+  "washer_type": "flat",
+  "inner_diameter": {
+    "value": 0.406,
+    "unit": "in"
+  },
+  "outer_diameter": {
+    "value": 0.875,
+    "unit": "in"
+  },
+  "thickness": {
+    "value": 0.043,
+    "unit": "in"
+  },
+  "applicable_bolt_size": "3/8"
+}

@@ -1,0 +1,50 @@
+{
+  "family": "nut",
+  "meta": {
+    "title": "Black-Oxide Steel Hex Nut",
+    "system_of_measurement": "mm"
+  },
+  "material": {
+    "base_material": "Steel",
+    "surface_treatment": "Black-Oxide"
+  },
+  "annotations": [
+    {
+      "label": "Thread",
+      "text": "M3 x 0.5 mm Thread"
+    },
+    {
+      "label": "Part Number",
+      "text": "90593A001"
+    },
+    {
+      "label": "Title",
+      "text": "Black-Oxide Steel Hex Nut"
+    }
+  ],
+  "confidence_notes": "Information in this drawing is provided for reference only",
+  "raw_attributes": {
+    "manufacturer": "McMaster-Carr",
+    "copyright": "© 2021 McMaster-Carr Supply Company"
+  },
+  "thread": {
+    "designation": "M3x0.5",
+    "standard": "ISO",
+    "pitch_mm": 0.5,
+    "hand": "RH"
+  },
+  "nominal_diameter": {
+    "value": 3.0,
+    "unit": "mm"
+  },
+  "nut_type": "Hex",
+  "profile": "Hex",
+  "height": {
+    "value": 2.4,
+    "unit": "mm"
+  },
+  "width_across_flats": {
+    "value": 5.5,
+    "unit": "mm"
+  }
+}

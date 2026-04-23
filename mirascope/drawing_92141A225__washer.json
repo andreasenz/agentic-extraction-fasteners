@@ -1,0 +1,35 @@
+{
+  "family": "washer",
+  "meta": {
+    "system_of_measurement": "in"
+  },
+  "material": {
+    "base_material": "18-8 Stainless Steel",
+    "grade_or_standard": "18-8"
+  },
+  "annotations": [
+    {
+      "label": "For Screw Size",
+      "text": "No. 16"
+    }
+  ],
+  "confidence_notes": "Inferred washer type from part description; dimensions in inches",
+  "raw_attributes": {
+    "part_number": "92141A225",
+    "description": "18-8 Stainless Steel Washer"
+  },
+  "washer_type": "flat",
+  "inner_diameter": {
+    "value": 0.313,
+    "unit": "in"
+  },
+  "outer_diameter": {
+    "value": 0.625,
+    "unit": "in"
+  },
+  "thickness": {
+    "value": 0.044,
+    "unit": "in"
+  },
+  "applicable_bolt_size": "No. 16"
+}

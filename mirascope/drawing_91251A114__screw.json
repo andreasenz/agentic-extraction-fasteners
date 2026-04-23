@@ -1,0 +1,58 @@
+{
+  "family": "screw",
+  "meta": {
+    "title": "Socket Head Screw",
+    "applicable_standard": "McMaster-Carr",
+    "specifications_met": "McMaster-Carr",
+    "system_of_measurement": "in",
+    "country_of_origin": "USA"
+  },
+  "material": {
+    "base_material": "Alloy Steel",
+    "surface_treatment": "Black-Oxide"
+  },
+  "annotations": [
+    {
+      "label": "4-40",
+      "text": "4-40"
+    },
+    {
+      "label": "Head Diameter",
+      "text": "3/32\""
+    }
+  ],
+  "confidence_notes": "Drawing is reference only, no compliance or material details provided",
+  "raw_attributes": {
+    "part_number": "91251A114"
+  },
+  "thread": {
+    "designation": "4-40",
+    "standard": "ANSI",
+    "pitch_mm": 6.35,
+    "hand": "RH",
+    "thread_type": "UNC"
+  },
+  "nominal_diameter": {
+    "value": 0.04,
+    "unit": "in"
+  },
+  "length": {
+    "value": 0.875,
+    "unit": "in"
+  },
+  "head_type": "socket",
+  "head_profile": "hex socket",
+  "head_diameter": {
+    "value": 0.09375,
+    "unit": "in"
+  },
+  "head_height": {
+    "value": 0.112,
+    "unit": "in"
+  },
+  "drive_type": "hex",
+  "drive_size": "3/32\"",
+  "point_type": "flat",
+  "threading": "4-40",
+  "decimal_size_equivalent": "0.040"
+}

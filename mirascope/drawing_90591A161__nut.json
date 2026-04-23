@@ -1,0 +1,53 @@
+{
+  "family": "nut",
+  "meta": {
+    "drawing_number": "90591A161",
+    "title": "Zinc-Plated Steel Hex Nut",
+    "applicable_standard": "ISO",
+    "specifications_met": "ISO 896",
+    "system_of_measurement": "mm",
+    "country_of_origin": "US"
+  },
+  "material": {
+    "base_material": "Steel",
+    "surface_treatment": "Zinc-Plated"
+  },
+  "annotations": [
+    {
+      "text": "M8 x 1.25mm"
+    },
+    {
+      "text": "Zinc-Plated Steel Hex Nut"
+    },
+    {
+      "label": "Reference Note",
+      "text": "Information in this drawing is provided for reference only"
+    }
+  ],
+  "confidence_notes": "Reference drawing provided by McMaster-Carr; no explicit compliance or material certifications visible",
+  "raw_attributes": {
+    "part_number": "90591A161",
+    "manufacturer": "McMaster-Carr"
+  },
+  "thread": {
+    "designation": "M8 x 1.25mm",
+    "standard": "ISO",
+    "pitch_mm": 1.25,
+    "thread_type": "metric"
+  },
+  "nominal_diameter": {
+    "value": 8.0,
+    "unit": "mm"
+  },
+  "nut_type": "hex",
+  "profile": "hex",
+  "height": {
+    "value": 6.5,
+    "unit": "mm"
+  },
+  "width_across_flats": {
+    "value": 13.0,
+    "unit": "mm"
+  },
+  "drive_style": "hex"
+}
