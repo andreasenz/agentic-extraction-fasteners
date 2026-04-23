@@ -4,3 +4,5 @@ output_instructor/
 val_images_png/
 val_dataset.zip
 instructor_pipeline.py
+mirascope/
+__pycache__/
